@@ -35,8 +35,5 @@ Notes:
   - GET /api/notes/:id -> get single note
   - PUT /api/notes/:id -> update note (JSON body: { title, content })
   - DELETE /api/notes/:id -> delete note
-
-If you'd like, I can:
-- Add client-side validation
-- Add unit tests
-- Provide a Vercel deployment config
+ Add unit tests
+- Provide a Vercel deployment co                        
