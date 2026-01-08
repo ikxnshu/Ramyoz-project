@@ -34,6 +34,4 @@ Notes:
   - POST /api/notes -> create note (JSON body: { title, content })
   - GET /api/notes/:id -> get single note
   - PUT /api/notes/:id -> update note (JSON body: { title, content })
-  - DELETE /api/notes/:id -> delete note
- Add unit tests
-- Provide a Vercel deployment co                        
+  - DELETE /api/notes/:id -> delete note                 
